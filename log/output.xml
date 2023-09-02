@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.7.7 on win32)" generated="20230902 08:11:46.055" rpa="false" schemaversion="3">
+<suite id="s1" name="Rob1" source="D:\Raj\Projects\MobileImageAutomation\rob1.robot">
+<test id="s1-t1" name="TC1" line="7">
+<kw name="TC1">
+<msg timestamp="20230902 08:11:48.042" level="FAIL">User keyword 'TC1' contains no keywords.</msg>
+<status status="FAIL" starttime="20230902 08:11:48.042" endtime="20230902 08:11:48.058"/>
+</kw>
+<status status="FAIL" starttime="20230902 08:11:48.042" endtime="20230902 08:11:48.058">User keyword 'TC1' contains no keywords.</status>
+</test>
+<status status="FAIL" starttime="20230902 08:11:46.055" endtime="20230902 08:11:48.058"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Rob1">Rob1</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20230902 08:11:46.853" level="WARN">Imported library 'D:\Raj\Projects\MobileImageAutomation\test_testing.py' contains no keywords.</msg>
+<msg timestamp="20230902 08:11:48.042" level="WARN">Imported library 'D:\Raj\Projects\MobileImageAutomation\sourceBase\base_Actions.py' contains no keywords.</msg>
+</errors>
+</robot>

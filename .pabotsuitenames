@@ -1,0 +1,6 @@
+datasources:15e68a0ed673c53a49aa26df0792ea540be249ed
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:12dc506158b3bc882451d8579fbbfd413ad65be8
+--suite MobileImageAutomation.Rob
+--suite MobileImageAutomation.Rob1
