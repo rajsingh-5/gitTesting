@@ -7,7 +7,7 @@ text = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
 # print(text['text'])
 search_text = "Dining set"
 search_text_list = search_text.split(" ")
-oc = [1,2,3]
+oc = []
 if len(search_text_list) > 1:
     for item in search_text_list:
         for i in range(len(text['text'])):
